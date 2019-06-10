@@ -1,7 +1,7 @@
 # Authentication-with-JWT
 Authentication using JSON Web tokens in express.
 
-<h2>Getting Started - Installation</h2>
+<h2> Installation</h2>
     (Install the dependencies and start the server)
 <ul>
   <li>npm install</li>
