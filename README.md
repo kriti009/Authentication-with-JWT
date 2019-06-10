@@ -1,5 +1,5 @@
 # Authentication-with-JWT
-Authentication using JWT tokens in express.
+Authentication using JSON Web tokens in express.
 
 <h2>Getting Started - Installation</h2>
     (Install the dependencies and start the server)
